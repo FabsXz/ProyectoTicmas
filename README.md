@@ -1,2 +1,0 @@
-# ProyectoTicmas
-concepto cv
